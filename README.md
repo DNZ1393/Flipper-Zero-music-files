@@ -1,4 +1,4 @@
-# flipper-zero-music
+# flipper zero music
 Music files in .txt format for the Flipper Zero Music Player plugin
 
 ## How to use
